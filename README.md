@@ -172,7 +172,7 @@
 
 ----
 	
-[![JuanFernando447's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JuanFernando447&theme=github)](https://github.com/JuanFernando447/github-readme-activity-graph)
+[![JuanFernando447's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanFernando447&theme=github-compact)](https://github.com/JuanFernando447/github-readme-activity-graph)
 
  
 </details>
@@ -194,5 +194,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/JuanFernando447/JuanFernando447/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/JuanFernando447/JuanFernando447/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
