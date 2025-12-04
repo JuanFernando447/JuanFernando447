@@ -154,6 +154,18 @@
   </p>
 </details>
 
+<details><summary><h3>⏳ WakaTime Stats</h3></summary>
+
+----
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanFernando447&theme=tokyonight&layout=compact" alt="JuanFernando447's WakaTime Stats" height="230px"/>
+  </a>
+</p>
+
+</details>
+
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
