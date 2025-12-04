@@ -68,6 +68,14 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://sass-lang.com/" target="_blank">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
   </a>
@@ -79,9 +87,15 @@
   &emsp;
     <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white"></a>
   &emsp;
+    <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white"></a>
+  &emsp;
     <a href="https://www.prisma.io/" target="_blank"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=plastic&logo=prisma&logoColor=white"></a>
   &emsp;
+    <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black"></a>
+  &emsp;
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -93,6 +107,12 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-%23000000.svg?style=plastic&logo=cursor&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-%2300ADD8.svg?style=plastic&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-%234285F4.svg?style=plastic&logo=google&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
