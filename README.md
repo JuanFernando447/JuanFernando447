@@ -161,12 +161,6 @@
 ----
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanFernando447&theme=tokyonight&layout=compact" alt="JuanFernando447's WakaTime Stats" height="230px"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://wakatime.com/share/@JuanFernando447/bac0d88a-2c12-4a8b-8113-83f94fbb02fc.svg" alt="WakaTime Chart 1" width="600px"/>
 </p>
 
