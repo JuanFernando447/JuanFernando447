@@ -7,6 +7,8 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=JuanFernando447&label=Profile%20views&color=00D4FF&style=plastic?" alt="JuanFernando447" height=25px, width=160px/> 
+    &emsp;
+    <img src="https://wakatime.com/badge/user/15b4054c-16eb-49f3-80ab-58fc80c0fa9f.svg" alt="Total time coding" height=25px />
 </p>
 
 	
