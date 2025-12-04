@@ -163,11 +163,15 @@
  
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary> <h3> :trophy: GitHub Achievements </h3></summary>
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanFernando447&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="JuanFernando447" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/users/JuanFernando447/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120px" alt="Pull Shark"/>
+  </a>
+</p>
 	
 </details>
 
