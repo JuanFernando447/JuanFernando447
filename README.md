@@ -148,7 +148,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="JuanFernando447's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuanFernando447&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="JuanFernando447's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuanFernando447&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JuanFernando447&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="JuanFernando447" height="230px"/>
 <br/>
 
