@@ -172,8 +172,7 @@
 
 ----
 	
-[![JuanFernando447's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanFernando447&theme=github-compact)](https://github.com/JuanFernando447/github-readme-activity-graph)
-
+[![JuanFernando447's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanFernando447&theme=github-compact&days=365&area=true&hide_border=true)](https://github.com/JuanFernando447/github-readme-activity-graph)
  
 </details>
 
