@@ -166,6 +166,12 @@
   </a>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@JuanFernando447/bac0d88a-2c12-4a8b-8113-83f94fbb02fc.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@JuanFernando447/138634e7-d2af-4632-a087-de1fcfa09268.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@JuanFernando447/064bd0f5-17be-4a82-9e4d-b539493c0a31.svg"></embed></figure>
+
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
