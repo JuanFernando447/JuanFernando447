@@ -24,7 +24,7 @@
 - :student: I'm currently learning `Computer Science` and `Software Engineering`.
 - :briefcase: Specialized in `Vue.js`, `Node.js`, and modern web technologies.
 - :nerd_face: Always `learning new things`.
-- :thinking: I'm currently open for new `job opportunities`, check out [MY RESUME](https://juanfernando447.github.io/AI-PORTFOLIO/).
+- :thinking: I'm currently open for new `job opportunities`, check out [MY RESUME](./CV.pdf).
 - :boom: You can visit [MY PORTFOLIO](https://juanfernando447.github.io/AI-PORTFOLIO/).
 <br>
 
